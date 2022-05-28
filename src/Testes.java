@@ -1,6 +1,9 @@
 import InverterString.StringInversa;
 import fatorial.Fatorial;
+import fatorial2.Fatorial2;
 import fibonacci.Fibonacci;
+import numerospares.NumerosImpares;
+import numerospares.NumerosPares;
 
 import java.util.Scanner;
 
@@ -26,7 +29,16 @@ public class Testes {
 
         // Função para inverter uma string
 
-      String conteudoInvertido = StringInversa.inverterString(String.valueOf(numero));
-        System.out.println(conteudoInvertido);
+     //  System.out.println(conteudoInvertido);
+
+       // NumerosPares numerosPares = new NumerosPares();
+//        numerosPares.numerosPares();
+//
+//        NumerosImpares.impares();
+        //NumerosImpares.mostarImpares();
+//        NumerosImpares  numerosImpares = new NumerosImpares();
+//        numerosImpares.mostrarImpares();
+        Fatorial2 fatorial2 = new Fatorial2();
+        fatorial2.mostrarFatorial(numero);
     }
 }
