@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5de618e-d2ec-41da-804f-c07dbc9ffe4a" name="Changes" comment="Exercicios de lógica com java">
-      <change afterPath="$PROJECT_DIR$/src/orientacaoObjeto/Consultor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/orientacaoObjeto/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/orientacaoObjeto/SistemaVendas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/orientacaoObjeto/Vendedor.java" afterDir="false" />
+    <list default="true" id="a5de618e-d2ec-41da-804f-c07dbc9ffe4a" name="Changes" comment="Exercicios Poo">
+      <change afterPath="$PROJECT_DIR$/src/exercicioMacaco/Macaco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicioMacaco/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +37,20 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SistemaVendas">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicioMacaco.Main" />
+      <module name="ExerciciosJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicioMacaco.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SistemaVendas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="orientacaoObjeto.SistemaVendas" />
       <module name="ExerciciosJava" />
@@ -62,6 +73,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.SistemaVendas" />
         <item itemvalue="Application.Testes" />
       </list>
@@ -97,7 +109,28 @@
       <option name="project" value="LOCAL" />
       <updated>1653779002760</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Exercicios Poo">
+      <created>1653781185101</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653781185101</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Exercicios Poo">
+      <created>1653781493873</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653781493873</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Exercicios Poo">
+      <created>1653781536865</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1653781536865</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +147,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit inicial." />
     <MESSAGE value="Exercicios de lógica com java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicios de lógica com java" />
+    <MESSAGE value="Exercicios lógica" />
+    <MESSAGE value="Exercicios Poo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicios Poo" />
   </component>
 </project>
